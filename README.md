@@ -4,9 +4,9 @@ TROA Bifrost Bot Dashboard is planned as a self-hosted Discord community bot wit
 
 ## Current status
 
-The private repository is building the Phase 1 foundation: Discord sign-in, guild-role access checks, bot status, audit events, and a responsive dashboard shell. Moderation, automated rules, role panels, community tools, temporary voice rooms, and progression features are planned for later phases.
+The private repository now contains the Phase 1 foundation and Phase 2 moderation source: Discord sign-in, live guild-role access checks, bot status, audit events, responsive dashboard pages, member search, warning/timeout/kick/ban, case history, slash-command moderation, and disabled-by-default basic automod. This source has not completed dependency-backed builds, live guild acceptance, or phone-browser acceptance and is not available as a public install package.
 
-There is no public installation package or release yet. A feature is not ready based on documentation or a local build alone; Discord guild, deployment, security, and phone-browser acceptance are required.
+There is no public installation package or release yet. Features require successful builds plus Discord guild, deployment, security, and phone-browser acceptance before they can be called released.
 
 ## Repository contents
 
@@ -15,3 +15,4 @@ This public repository is limited to public-safe product documentation, changelo
 ## Support and release notes
 
 Release notes will identify the exact version, included features, setup requirements, and acceptance status. Review [CHANGELOG.md](CHANGELOG.md) before installation. No release is currently available.
+
