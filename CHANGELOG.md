@@ -4,4 +4,5 @@
 - Established public-safe product and repository documentation.
 - Documented the private foundation and core moderation source status: member search, case history, moderation actions, and opt-in basic automod.
 - Documented the private temporary voice-room source status, including join-to-create rooms and owner controls.
+- Documented the private mobile dashboard manager for tracked temporary voice rooms.
 - No public release assets are available. Build, live Discord, deployment, and mobile acceptance remain pending.
