@@ -4,9 +4,9 @@ TROA Bifrost Bot Dashboard is planned as a self-hosted Discord community bot wit
 
 ## Current status
 
-The private repository now contains the Phase 1 foundation and Phase 2 moderation source: Discord sign-in, live guild-role access checks, bot status, audit events, responsive dashboard pages, member search, warning/timeout/kick/ban, case history, slash-command moderation, and disabled-by-default basic automod. This source has not completed dependency-backed builds, live guild acceptance, or phone-browser acceptance and is not available as a public install package.
+The private repository now contains the Phase 1 foundation, Phase 2 moderation source, and temporary voice-room source: Discord sign-in, live guild-role access checks, bot status, audit events, responsive dashboard pages, member search, warning/timeout/kick/ban, case history, slash-command moderation, disabled-by-default basic automod, and join-to-create voice rooms with owner controls. This source has not completed dependency-backed builds, live guild acceptance, or phone-browser acceptance and is not available as a public install package.
 
-There is no public installation package or release yet. Features require successful builds plus Discord guild, deployment, security, and phone-browser acceptance before they can be called released.
+Welcome and verification flows, reaction-role panels, tickets, polls, suggestions, giveaways, reminders, leveling, reputation, leaderboards, configuration backup/restore, and dashboard voice/channel controls remain planned. Temporary room owner controls are available through Discord slash commands in source. There is no public installation package or release yet. Features require successful builds plus Discord guild, deployment, security, and phone-browser acceptance before they can be called released.
 
 ## Repository contents
 
@@ -15,4 +15,3 @@ This public repository is limited to public-safe product documentation, changelo
 ## Support and release notes
 
 Release notes will identify the exact version, included features, setup requirements, and acceptance status. Review [CHANGELOG.md](CHANGELOG.md) before installation. No release is currently available.
-
