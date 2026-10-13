@@ -4,5 +4,4 @@ This repository is the public-facing documentation and release-material home for
 
 The product is a self-hosted Discord bot and mobile-friendly dashboard for the TROA community guild. It does not integrate with Space Engineers or Torch. Public information must remain generic and contain no live deployment identifiers or secrets.
 
-Current public release status: no release assets have been published. Private Phase 1 foundation and Phase 2 moderation source exists, but dependency-backed builds, live Discord, deployment, and mobile acceptance remain open.
-
+Current public release status: no release assets have been published. Private Phase 1 foundation, Phase 2 moderation, and temporary voice-room source exists. Welcome and verification, role panels, broader community features, progression, backups, and dashboard voice/channel controls remain planned. Dependency-backed builds, live Discord, deployment, and mobile acceptance remain open.
