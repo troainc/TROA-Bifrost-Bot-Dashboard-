@@ -4,9 +4,9 @@ TROA Bifrost Bot Dashboard is planned as a self-hosted Discord community bot wit
 
 ## Current status
 
-The private repository now contains the Phase 1 foundation, Phase 2 moderation source, and temporary voice-room source: Discord sign-in, live guild-role access checks, bot status, audit events, responsive dashboard pages, member search, warning/timeout/kick/ban, case history, slash-command moderation, disabled-by-default basic automod, and join-to-create voice rooms with owner controls. This source has not completed dependency-backed builds, live guild acceptance, or phone-browser acceptance and is not available as a public install package.
+The private repository now contains the Phase 1 foundation, Phase 2 moderation source, and temporary voice-room source: Discord sign-in, live guild-role access checks, bot status, audit events, responsive dashboard pages, member search, warning/timeout/kick/ban, case history, slash-command moderation, disabled-by-default basic automod, join-to-create voice rooms, owner controls, and an administrator-only mobile dashboard room manager. This source has not completed dependency-backed builds, live guild acceptance, or phone-browser acceptance and is not available as a public install package.
 
-Welcome and verification flows, reaction-role panels, tickets, polls, suggestions, giveaways, reminders, leveling, reputation, leaderboards, configuration backup/restore, and dashboard voice/channel controls remain planned. Temporary room owner controls are available through Discord slash commands in source. There is no public installation package or release yet. Features require successful builds plus Discord guild, deployment, security, and phone-browser acceptance before they can be called released.
+Welcome and verification flows, reaction-role panels, tickets, polls, suggestions, giveaways, reminders, leveling, reputation, leaderboards, configuration backup/restore, and general role/channel controls remain planned. Temporary room owner invites and ownership transfer are available through Discord slash commands in source. There is no public installation package or release yet. Features require successful builds plus Discord guild, deployment, security, and phone-browser acceptance before they can be called released.
 
 ## Repository contents
 
